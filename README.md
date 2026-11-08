@@ -1,6 +1,4 @@
-# Mira Vale Lab
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=18&duration=2600&pause=900&color=7C72B5&vCenter=true&width=460&height=34&lines=%E4%BB%8E%E7%9C%9F%E5%AE%9E%E9%9C%80%E6%B1%82%E5%87%BA%E5%8F%91;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BD%9C%E5%93%81" alt="从真实需求出发，把想法做成可用的作品" />
+# Mira Vale Lab<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=18&duration=2600&pause=900&color=7C72B5&vCenter=true&width=460&height=34&repeat=false&lines=%E4%BB%8E%E7%9C%9F%E5%AE%9E%E9%9C%80%E6%B1%82%E5%87%BA%E5%8F%91%EF%BC%8C%E5%81%9A%E6%9C%89%E7%94%A8%E7%9A%84%E4%BA%A7%E5%93%81%E3%80%82" alt="从真实需求出发，做有用的产品。" />
 
 这里收录一些从真实需求出发的小工具与产品实验。
 
